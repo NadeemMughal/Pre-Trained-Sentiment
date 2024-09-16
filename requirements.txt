@@ -1,3 +1,4 @@
 streamlit==1.38.0
 transformers==4.44.2
 emoji==1.7.0
+torch==2.4.1+cpu
